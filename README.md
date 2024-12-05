@@ -1,5 +1,5 @@
 # DialecticsOfNature
-**2024春自然辩证法复习资料汇总**
+**2024秋自然辩证法复习资料汇总**
 
 感谢交大传承、水源论坛、同门以及学长 https://github.com/colorful-liyu/SJTU-ziranbianzhengfa-docs 对本仓库的贡献，预祝大家顺利通过考试！
 
